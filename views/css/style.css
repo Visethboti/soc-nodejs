@@ -1,0 +1,137 @@
+body{
+  margin: 0px;
+  background-color: #060123;
+  min-width: 1300px;
+  font-family: arial;
+  color: white;
+}
+
+.row0{
+  padding: 6px;
+  width: 100%;
+  height: auto;
+}
+
+.logo{
+  width: 35%;
+  height: 120px;
+  float: left;
+}
+
+.logo img{
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  float: left;
+}
+
+.logo h1{
+  font-size: 1.8em;
+  width: 75%;
+  float: left;
+}
+
+.header-right{
+  margin-top: 25px;
+  width: 65%;
+  height: 70px;
+  display: inline-block;
+}
+
+.row0-1{
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 100%;
+  display: inline-block;
+}
+
+.button-Filter{
+  width: 300px;
+}
+
+.row1{
+  margin-top: 20px;
+}
+
+.row2{
+  margin-top: 20px;
+}
+
+.info1{
+  width: 18%;
+  height: 70px;
+  border-radius: 10px;
+  margin-left: 12px;
+  color: white;
+  float: left;
+}
+
+.info1 img{
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  margin-right: 5px;
+  float: left;
+}
+
+.info1 h3{
+  width: 60%;
+  margin: 0px;
+  margin-top: 10px;
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+  float: left;
+}
+
+.info1 h4{
+  font-size: 0.8em;
+  width: 60%;
+  height: 30%;
+  margin: 0px;
+  margin-top: 2px;
+  float: left;
+}
+
+
+.info2{
+  width: 33%;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.info2 h3{
+  width: 93%;
+  margin: auto;
+  margin-bottom: 5px;
+}
+
+.info2-graph{
+  background-color: #3D4055;
+  width: 93%;
+  height: 230px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.info3{
+  width: 49.8%;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.info3 h3{
+  width: 95%;
+  margin: auto;
+  margin-bottom: 5px;
+}
+
+.info3-graph{
+  background-color: #3D4055;
+  width: 95%;
+  height: 230px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.chart1 {
+}
